@@ -1,0 +1,348 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="homepage_title">Dino Pedia</string>
+    <string name="about_title">Dino Pedia</string>
+    <string name="about_description">Dino Pedia Adalah Aplikasi seputar family dari Dinosaurus yang dikembangkan untuk UTS PAM</string>
+    <string name="about_developer_title">Pengembang</string>
+    <string name="about_developer_name">Dedi Panggabean</string>
+    <string name="about_developer_image">dediandree22@gmail.com</string>
+    <string name="detail_share_text">Share</string>
+    <string name="detail_desc">Deskripsi</string>
+    <string name="detail_title">Judul</string>
+    <string name="detail_image_desc">Deskripsi Gambar</string>
+
+    <string-array name="destination_names">
+        <item>Theropod</item>
+        <item>Sauropod</item>
+        <item>Ornithopod</item>
+        <item>Ceratopsian</item>
+        <item>Stegosaurian</item>
+        <item>Ankylosaurian</item>
+        <item>Hadrosaurid</item>
+        <item>Pterosaur</item>
+        <item>Tyrannosaurus rex</item>
+        <item>Velociraptor</item>
+        <item>Brachiosaurus</item>
+        <item>Apatosaurus</item>
+        <item>Iguanodon</item>
+        <item>Hadrosaurus</item>
+        <item>Triceratops</item>
+        <item>Styracosaurus</item>
+        <item>Stegosaurus</item>
+        <item>Kentrosaurus</item>
+        <item>Ankylosaurus</item>
+        <item>Euoplocephalus</item>
+        <item>Kentrosaurus</item>
+        <item>Ankylosaurus</item>
+        <item>Euoplocephalus</item>
+        <item>Kentrosaurus</item>
+
+
+
+
+    </string-array>
+
+
+    <string-array name="destination_descriptions">
+        <item>Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam.</item>
+        <item>Dinosaurus herbivora raksasa dengan leher panjang dan tubuh besar.</item>
+        <item>Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri.</item>
+        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
+        <item>Dinosaurus herbivora dengan ciri-ciri seperti paruh bebek dan kaki yang kuat.</item>
+        <item>Dinosaurus pemakan ikan yang memiliki sayap membran dan hidup di udara.</item>
+        <item>Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam.</item>
+        <item>Dinosaurus herbivora raksasa dengan leher panjang dan tubuh besar.</item>
+        <item>Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri.</item>
+        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
+        <item>Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam.</item>
+        <item>Dinosaurus herbivora raksasa dengan leher panjang dan tubuh besar.</item>
+        <item>Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri.</item>
+        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
+        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri.</item>
+        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
+        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
+    </string-array>
+
+
+    <string-array name="destination_images">
+        <item>theropod</item>
+        <item>sauropod</item>
+        <item>ornithopod</item>
+        <item>ceratopsian</item>
+        <item>stegosaurian</item>
+        <item>ankylosaurian</item>
+        <item>hadrosaurid</item>
+        <item>pterosaur</item>
+        <item>theropod</item>
+        <item>sauropod</item>
+        <item>ornithopod</item>
+        <item>ceratopsian</item>
+        <item>stegosaurian</item>
+        <item>ankylosaurian</item>
+        <item>theropod</item>
+        <item>sauropod</item>
+        <item>ornithopod</item>
+        <item>ceratopsian</item>
+        <item>stegosaurian</item>
+        <item>ankylosaurian</item>
+        <item>ankylosaurian</item>
+        <item>sauropod</item>
+        <item>ankylosaurian</item>
+        <item>ankylosaurian</item>
+
+    </string-array>
+
+    <string-array name="destination_location">
+    <item>
+        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
+        <br/><b>Kelompok:</b> Theropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
+        <br/><b>Makanan:</b> Biasanya memakan daging.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
+        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
+        <br/><b>Bobot:</b> Sekitar 5-7 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan kaki yang kuat. Biasanya memiliki ekor panjang untuk keseimbangan.
+        <br/><b>Kelompok:</b> Sauropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di dataran luas dan daerah banjir dengan vegetasi yang melimpah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 30 meter.
+        <br/><b>Tinggi:</b> Sekitar 6-7 meter pada bahu.
+        <br/><b>Bobot:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 50 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan sehingga rentan terhadap serangan predator jika sendirian.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan. Biasanya memiliki gigi yang cocok untuk mengunyah dan pencernaan tumbuhan.
+        <br/><b>Kelompok:</b> Ornithopoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan banyak tumbuhan rendah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 4-6 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 1-3 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator karena ukuran tubuhnya yang lebih kecil.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan. Biasanya memiliki ukuran tubuh yang besar dan cenderung lamban.
+        <br/><b>Kelompok:</b> Stegosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan sedikit persaingan.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 7-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 2-4 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan tidak memiliki perlindungan yang kuat dari predator.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
+        <br/><b>Kelompok:</b> Ankylosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 6-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 4-6 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang. Biasanya kurang agresif dan lebih mengandalkan perlindungan tubuh mereka dalam menghadapi ancaman predator.
+        <br/><b>Kelompok:</b> Ceratopsia.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah bersemak dan daerah terbuka dengan sedikit pohon besar.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 6-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 2-5 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan sisi atau belakang karena berat tubuh yang besar dan kecepatan yang rendah.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan ciri-ciri seperti paruh bebek dan kaki yang kuat. Biasanya hidup dalam kelompok besar dan menggunakan kaki mereka yang kuat untuk bergerak di daratan dan mencari makanan.
+        <br/><b>Kelompok:</b> Hadrosauridae.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah banjir dan dataran luas dengan vegetasi yang melimpah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 9-12 meter.
+        <br/><b>Tinggi:</b> Sekitar 3-5 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 2-4 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan predator jika terpisah dari kelompoknya.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus pemakan ikan yang memiliki sayap membran dan hidup di udara. Biasanya hidup secara soliter atau dalam kelompok kecil dan menggunakan kemampuan terbang mereka untuk mencari mangsa di perairan.
+        <br/><b>Kelompok:</b> Pterosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah perairan dan pesisir dengan akses yang mudah ke sumber makanan.
+        <br/><b>Makanan:</b> Biasanya memakan ikan dan hewan kecil.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 4-10 meter atau lebih dengan bentangan sayap yang luas.
+        <br/><b>Tinggi:</b> Tidak berlaku.
+        <br/><b>Bobot:</b> Tergantung pada spesiesnya, bisa mencapai beberapa ratus kilogram.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator di udara dan di permukaan air.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
+        <br/><b>Kelompok:</b> Theropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
+        <br/><b>Makanan:</b> Biasanya memakan daging.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
+        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
+        <br/><b>Bobot:</b> Sekitar 5-7 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan kaki yang kuat. Biasanya memiliki ekor panjang untuk keseimbangan.
+        <br/><b>Kelompok:</b> Sauropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di dataran luas dan daerah banjir dengan vegetasi yang melimpah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 30 meter.
+        <br/><b>Tinggi:</b> Sekitar 6-7 meter pada bahu.
+        <br/><b>Bobot:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 50 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan sehingga rentan terhadap serangan predator jika sendirian.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan. Biasanya memiliki gigi yang cocok untuk mengunyah dan pencernaan tumbuhan.
+        <br/><b>Kelompok:</b> Ornithopoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan banyak tumbuhan rendah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 4-6 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 1-3 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator karena ukuran tubuhnya yang lebih kecil.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan. Biasanya memiliki ukuran tubuh yang besar dan cenderung lamban.
+        <br/><b>Kelompok:</b> Stegosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan sedikit persaingan.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 7-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 2-4 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan tidak memiliki perlindungan yang kuat dari predator.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
+        <br/><b>Kelompok:</b> Ankylosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 6-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 4-6 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang. Biasanya kurang agresif dan lebih mengandalkan perlindungan tubuh mereka dalam menghadapi ancaman predator.
+        <br/><b>Kelompok:</b> Ceratopsia.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah bersemak dan daerah terbuka dengan sedikit pohon besar.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 6-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 2-5 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan sisi atau belakang karena berat tubuh yang besar dan kecepatan yang rendah.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
+        <br/><b>Kelompok:</b> Theropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
+        <br/><b>Makanan:</b> Biasanya memakan daging.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
+        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
+        <br/><b>Bobot:</b> Sekitar 5-7 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan kaki yang kuat. Biasanya memiliki ekor panjang untuk keseimbangan.
+        <br/><b>Kelompok:</b> Sauropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di dataran luas dan daerah banjir dengan vegetasi yang melimpah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 30 meter.
+        <br/><b>Tinggi:</b> Sekitar 6-7 meter pada bahu.
+        <br/><b>Bobot:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 50 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan sehingga rentan terhadap serangan predator jika sendirian.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan. Biasanya memiliki gigi yang cocok untuk mengunyah dan pencernaan tumbuhan.
+        <br/><b>Kelompok:</b> Ornithopoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan banyak tumbuhan rendah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 4-6 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 1-3 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator karena ukuran tubuhnya yang lebih kecil.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan. Biasanya memiliki ukuran tubuh yang besar dan cenderung lamban.
+        <br/><b>Kelompok:</b> Stegosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan sedikit persaingan.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 7-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 2-4 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan tidak memiliki perlindungan yang kuat dari predator.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
+        <br/><b>Kelompok:</b> Ankylosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 6-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 4-6 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang. Biasanya kurang agresif dan lebih mengandalkan perlindungan tubuh mereka dalam menghadapi ancaman predator.
+        <br/><b>Kelompok:</b> Ceratopsia.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah bersemak dan daerah terbuka dengan sedikit pohon besar.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 6-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 2-5 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan sisi atau belakang karena berat tubuh yang besar dan kecepatan yang rendah.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
+        <br/><b>Kelompok:</b> Ankylosauria.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
+        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
+        <br/><b>Panjang:</b> Sekitar 6-9 meter.
+        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
+        <br/><b>Bobot:</b> Sekitar 4-6 ton.
+        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
+    </item>
+        <item>
+        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
+        <br/><b>Kelompok:</b> Theropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
+        <br/><b>Makanan:</b> Biasanya memakan daging.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
+        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
+        <br/><b>Bobot:</b> Sekitar 5-7 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
+    </item><item>
+        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
+        <br/><b>Kelompok:</b> Theropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
+        <br/><b>Makanan:</b> Biasanya memakan daging.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
+        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
+        <br/><b>Bobot:</b> Sekitar 5-7 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
+    </item><item>
+        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
+        <br/><b>Kelompok:</b> Theropoda.
+        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
+        <br/><b>Makanan:</b> Biasanya memakan daging.
+        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
+        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
+        <br/><b>Bobot:</b> Sekitar 5-7 ton.
+        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
+    </item>
+    </string-array>
+
+
+
+
+
+</resources>
+
