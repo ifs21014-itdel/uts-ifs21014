@@ -9,7 +9,7 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:id="@+id/img_family"
+            android:id="@+id/img_dino"
             android:layout_width="0dp"
             android:layout_height="400dp"
             android:contentDescription="Deskripsi Gambar"
@@ -20,14 +20,14 @@
             app:layout_constraintEnd_toEndOf="parent" />
 
         <TextView
-            android:id="@+id/family_name"
+            android:id="@+id/dino_name"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Nama familysaurus"
+            android:text="Nama Dinosaurus"
             android:textSize="24sp"
             android:textStyle="bold"
             android:textColor="@color/primary"
-            app:layout_constraintTop_toBottomOf="@id/img_family"
+            app:layout_constraintTop_toBottomOf="@id/img_dino"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -35,12 +35,12 @@
             android:layout_marginTop="15dp" />
 
         <TextView
-            android:id="@+id/family_desc"
+            android:id="@+id/dino_desc"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Deskripsi familysaurus"
+            android:text="Deskripsi Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_name"
+            app:layout_constraintTop_toBottomOf="@id/dino_name"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -49,14 +49,14 @@
 
         <!-- TextView untuk menampilkan karakteristik -->
         <TextView
-            android:id="@+id/family_char_label"
+            android:id="@+id/dino_char_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Karakteristik"
             android:textColor="@color/primary"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintTop_toBottomOf="@id/family_desc"
+            app:layout_constraintTop_toBottomOf="@id/dino_desc"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -64,12 +64,12 @@
             android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/family_char"
+            android:id="@+id/dino_char"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Karakteristik familysaurus"
+            android:text="Karakteristik Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_char_label"
+            app:layout_constraintTop_toBottomOf="@id/dino_char_label"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -78,27 +78,27 @@
 
         <!-- TextView untuk menampilkan kelompok -->
         <TextView
-            android:id="@+id/family_group_label"
+            android:id="@+id/dino_group_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="16dp"
-            android:layout_marginEnd="16dp"
-            android:text="Contoh Dinosaurus"
+            android:text="Kelompok"
             android:textColor="@color/primary"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dino_char"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/family_char" />
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/family_group"
+            android:id="@+id/dino_group"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Kelompok familysaurus"
+            android:text="Kelompok Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_group_label"
+            app:layout_constraintTop_toBottomOf="@id/dino_group_label"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -107,14 +107,14 @@
 
         <!-- TextView untuk menampilkan habitat -->
         <TextView
-            android:id="@+id/family_habitat_label"
+            android:id="@+id/dino_habitat_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Habitat"
             android:textColor="@color/primary"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintTop_toBottomOf="@id/family_group"
+            app:layout_constraintTop_toBottomOf="@id/dino_group"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -122,12 +122,12 @@
             android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/family_habitat"
+            android:id="@+id/dino_habitat"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Habitat familysaurus"
+            android:text="Habitat Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_habitat_label"
+            app:layout_constraintTop_toBottomOf="@id/dino_habitat_label"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -135,14 +135,14 @@
             android:layout_marginTop="8dp" />
         <!-- TextView untuk menampilkan family -->
         <TextView
-            android:id="@+id/family_fam_label"
+            android:id="@+id/dino_fam_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Family"
             android:textColor="@color/primary"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintTop_toBottomOf="@id/family_habitat"
+            app:layout_constraintTop_toBottomOf="@id/dino_habitat"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -150,12 +150,12 @@
             android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/family_fam"
+            android:id="@+id/dino_fam"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Famili familysaurus"
+            android:text="Famili Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_fam_label"
+            app:layout_constraintTop_toBottomOf="@id/dino_fam_label"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -164,14 +164,14 @@
 
         <!-- TextView untuk menampilkan makanan -->
         <TextView
-            android:id="@+id/family_food_label"
+            android:id="@+id/dino_food_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Makanan"
             android:textColor="@color/primary"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintTop_toBottomOf="@id/family_fam"
+            app:layout_constraintTop_toBottomOf="@id/dino_fam"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -179,12 +179,12 @@
             android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/family_food"
+            android:id="@+id/dino_food"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Makanan familysaurus"
+            android:text="Makanan Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_food_label"
+            app:layout_constraintTop_toBottomOf="@id/dino_food_label"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -193,14 +193,14 @@
 
         <!-- TextView untuk menampilkan ukuran -->
         <TextView
-            android:id="@+id/family_size_label"
+            android:id="@+id/dino_size_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Ukuran"
             android:textColor="@color/primary"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintTop_toBottomOf="@id/family_food"
+            app:layout_constraintTop_toBottomOf="@id/dino_food"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -208,12 +208,12 @@
             android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/family_size"
+            android:id="@+id/dino_size"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Ukuran familysaurus"
+            android:text="Ukuran Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_size_label"
+            app:layout_constraintTop_toBottomOf="@id/dino_size_label"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -222,14 +222,14 @@
 
         <!-- TextView untuk menampilkan kelemahan -->
         <TextView
-            android:id="@+id/family_weak_label"
+            android:id="@+id/dino_weak_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Kelemahan"
             android:textColor="@color/primary"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintTop_toBottomOf="@id/family_size"
+            app:layout_constraintTop_toBottomOf="@id/dino_size"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -237,12 +237,12 @@
             android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/family_weak"
+            android:id="@+id/dino_weak"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Kelemahan familysaurus"
+            android:text="Kelemahan Dinosaurus"
             android:textSize="16sp"
-            app:layout_constraintTop_toBottomOf="@id/family_weak_label"
+            app:layout_constraintTop_toBottomOf="@id/dino_weak_label"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="16dp"
@@ -251,14 +251,14 @@
 
         <!-- Button untuk navigasi kembali -->
         <Button
-            android:id="@+id/buttonSemua"
+            android:id="@+id/buttonBack"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="Kembali"
             android:layout_marginTop="16dp"
-            android:text="Daftar familysaurus"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dino_weak"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/family_weak" />
+            app:layout_constraintEnd_toEndOf="parent"/>
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

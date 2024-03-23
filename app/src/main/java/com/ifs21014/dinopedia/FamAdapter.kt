@@ -8,18 +8,18 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class DestAdapter(
+class FamAdapter(
     private val context: Context,
-    private val destination: List<Destination>,
-    val listener:(Destination) -> Unit
-) : RecyclerView.Adapter<DestAdapter.DestinationViewHolder>(){
+    private val destination: MutableList<Family>,
+    val listener:(Family) -> Unit
+) : RecyclerView.Adapter<FamAdapter.DestinationViewHolder>(){
 
     class DestinationViewHolder(view: View): RecyclerView.ViewHolder(view){
-        val imgDestination = view.findViewById<ImageView>(R.id.img_item_image)
-        val nameDestination = view.findViewById<TextView>(R.id.tv_item_name)
+        val imgDestination = view.findViewById<ImageView>(R.id.img_item_image_dino)
+        val nameDestination = view.findViewById<TextView>(R.id.tv_item_name_dino)
         val descDestination = view.findViewById<TextView>(R.id.tv_item_desc)
 
-        fun bindView(destination: Destination, listener: (Destination) -> Unit) {
+        fun bindView(destination: Family, listener: (Family) -> Unit) {
             imgDestination.setImageResource(destination.imgDestination)
             nameDestination.text = destination.nameDestination
             descDestination.text = destination.descDestination

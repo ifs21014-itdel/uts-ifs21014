@@ -11,7 +11,7 @@
     <string name="detail_title">Judul</string>
     <string name="detail_image_desc">Deskripsi Gambar</string>
 
-    <string-array name="destination_names">
+    <string-array name="family_names">
         <item>Theropod</item>
         <item>Sauropod</item>
         <item>Ornithopod</item>
@@ -20,26 +20,18 @@
         <item>Ankylosaurian</item>
         <item>Hadrosaurid</item>
         <item>Pterosaur</item>
-        <item>Tyrannosaurus rex</item>
-        <item>Velociraptor</item>
-        <item>Brachiosaurus</item>
-        <item>Apatosaurus</item>
-        <item>Iguanodon</item>
-        <item>Hadrosaurus</item>
-        <item>Triceratops</item>
-        <item>Styracosaurus</item>
-        <item>Stegosaurus</item>
-        <item>Kentrosaurus</item>
-        <item>Ankylosaurus</item>
-        <item>Euoplocephalus</item>
-        <item>Kentrosaurus</item>
-        <item>Ankylosaurus</item>
-        <item>Euoplocephalus</item>
-        <item>Kentrosaurus</item>
 
+    </string-array>
 
-
-
+    <string-array name="families">
+        <item>Theropod</item>
+        <item>Sauropod</item>
+        <item>Ornithopod</item>
+        <item>Ceratopsian</item>
+        <item>Stegosaurian</item>
+        <item>Ankylosaurian</item>
+        <item>Hadrosaurid</item>
+        <item>Pterosaur</item>
     </string-array>
 
 
@@ -52,293 +44,287 @@
         <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
         <item>Dinosaurus herbivora dengan ciri-ciri seperti paruh bebek dan kaki yang kuat.</item>
         <item>Dinosaurus pemakan ikan yang memiliki sayap membran dan hidup di udara.</item>
-        <item>Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam.</item>
-        <item>Dinosaurus herbivora raksasa dengan leher panjang dan tubuh besar.</item>
-        <item>Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan.</item>
-        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan.</item>
-        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri.</item>
-        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
-        <item>Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam.</item>
-        <item>Dinosaurus herbivora raksasa dengan leher panjang dan tubuh besar.</item>
-        <item>Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan.</item>
-        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan.</item>
-        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri.</item>
-        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
-        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
-        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri.</item>
-        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
-        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang.</item>
-    </string-array>
-
-
-    <string-array name="destination_images">
-        <item>theropod</item>
-        <item>sauropod</item>
-        <item>ornithopod</item>
-        <item>ceratopsian</item>
-        <item>stegosaurian</item>
-        <item>ankylosaurian</item>
-        <item>hadrosaurid</item>
-        <item>pterosaur</item>
-        <item>theropod</item>
-        <item>sauropod</item>
-        <item>ornithopod</item>
-        <item>ceratopsian</item>
-        <item>stegosaurian</item>
-        <item>ankylosaurian</item>
-        <item>theropod</item>
-        <item>sauropod</item>
-        <item>ornithopod</item>
-        <item>ceratopsian</item>
-        <item>stegosaurian</item>
-        <item>ankylosaurian</item>
-        <item>ankylosaurian</item>
-        <item>sauropod</item>
-        <item>ankylosaurian</item>
-        <item>ankylosaurian</item>
 
     </string-array>
 
-    <string-array name="destination_location">
-    <item>
-        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
-        <br/><b>Kelompok:</b> Theropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
-        <br/><b>Makanan:</b> Biasanya memakan daging.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
-        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
-        <br/><b>Bobot:</b> Sekitar 5-7 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan kaki yang kuat. Biasanya memiliki ekor panjang untuk keseimbangan.
-        <br/><b>Kelompok:</b> Sauropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di dataran luas dan daerah banjir dengan vegetasi yang melimpah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 30 meter.
-        <br/><b>Tinggi:</b> Sekitar 6-7 meter pada bahu.
-        <br/><b>Bobot:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 50 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan sehingga rentan terhadap serangan predator jika sendirian.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan. Biasanya memiliki gigi yang cocok untuk mengunyah dan pencernaan tumbuhan.
-        <br/><b>Kelompok:</b> Ornithopoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan banyak tumbuhan rendah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 4-6 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 1-3 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator karena ukuran tubuhnya yang lebih kecil.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan. Biasanya memiliki ukuran tubuh yang besar dan cenderung lamban.
-        <br/><b>Kelompok:</b> Stegosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan sedikit persaingan.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 7-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 2-4 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan tidak memiliki perlindungan yang kuat dari predator.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
-        <br/><b>Kelompok:</b> Ankylosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 6-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 4-6 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang. Biasanya kurang agresif dan lebih mengandalkan perlindungan tubuh mereka dalam menghadapi ancaman predator.
-        <br/><b>Kelompok:</b> Ceratopsia.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah bersemak dan daerah terbuka dengan sedikit pohon besar.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 6-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 2-5 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan sisi atau belakang karena berat tubuh yang besar dan kecepatan yang rendah.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan ciri-ciri seperti paruh bebek dan kaki yang kuat. Biasanya hidup dalam kelompok besar dan menggunakan kaki mereka yang kuat untuk bergerak di daratan dan mencari makanan.
-        <br/><b>Kelompok:</b> Hadrosauridae.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah banjir dan dataran luas dengan vegetasi yang melimpah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 9-12 meter.
-        <br/><b>Tinggi:</b> Sekitar 3-5 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 2-4 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan predator jika terpisah dari kelompoknya.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus pemakan ikan yang memiliki sayap membran dan hidup di udara. Biasanya hidup secara soliter atau dalam kelompok kecil dan menggunakan kemampuan terbang mereka untuk mencari mangsa di perairan.
-        <br/><b>Kelompok:</b> Pterosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah perairan dan pesisir dengan akses yang mudah ke sumber makanan.
-        <br/><b>Makanan:</b> Biasanya memakan ikan dan hewan kecil.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 4-10 meter atau lebih dengan bentangan sayap yang luas.
-        <br/><b>Tinggi:</b> Tidak berlaku.
-        <br/><b>Bobot:</b> Tergantung pada spesiesnya, bisa mencapai beberapa ratus kilogram.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator di udara dan di permukaan air.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
-        <br/><b>Kelompok:</b> Theropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
-        <br/><b>Makanan:</b> Biasanya memakan daging.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
-        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
-        <br/><b>Bobot:</b> Sekitar 5-7 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan kaki yang kuat. Biasanya memiliki ekor panjang untuk keseimbangan.
-        <br/><b>Kelompok:</b> Sauropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di dataran luas dan daerah banjir dengan vegetasi yang melimpah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 30 meter.
-        <br/><b>Tinggi:</b> Sekitar 6-7 meter pada bahu.
-        <br/><b>Bobot:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 50 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan sehingga rentan terhadap serangan predator jika sendirian.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan. Biasanya memiliki gigi yang cocok untuk mengunyah dan pencernaan tumbuhan.
-        <br/><b>Kelompok:</b> Ornithopoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan banyak tumbuhan rendah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 4-6 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 1-3 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator karena ukuran tubuhnya yang lebih kecil.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan. Biasanya memiliki ukuran tubuh yang besar dan cenderung lamban.
-        <br/><b>Kelompok:</b> Stegosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan sedikit persaingan.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 7-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 2-4 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan tidak memiliki perlindungan yang kuat dari predator.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
-        <br/><b>Kelompok:</b> Ankylosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 6-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 4-6 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang. Biasanya kurang agresif dan lebih mengandalkan perlindungan tubuh mereka dalam menghadapi ancaman predator.
-        <br/><b>Kelompok:</b> Ceratopsia.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah bersemak dan daerah terbuka dengan sedikit pohon besar.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 6-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 2-5 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan sisi atau belakang karena berat tubuh yang besar dan kecepatan yang rendah.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
-        <br/><b>Kelompok:</b> Theropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
-        <br/><b>Makanan:</b> Biasanya memakan daging.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
-        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
-        <br/><b>Bobot:</b> Sekitar 5-7 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan kaki yang kuat. Biasanya memiliki ekor panjang untuk keseimbangan.
-        <br/><b>Kelompok:</b> Sauropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di dataran luas dan daerah banjir dengan vegetasi yang melimpah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 30 meter.
-        <br/><b>Tinggi:</b> Sekitar 6-7 meter pada bahu.
-        <br/><b>Bobot:</b> Varian tergantung spesiesnya, bisa mencapai lebih dari 50 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan sehingga rentan terhadap serangan predator jika sendirian.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan. Biasanya memiliki gigi yang cocok untuk mengunyah dan pencernaan tumbuhan.
-        <br/><b>Kelompok:</b> Ornithopoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan banyak tumbuhan rendah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 4-6 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 1-3 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari predator karena ukuran tubuhnya yang lebih kecil.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan. Biasanya memiliki ukuran tubuh yang besar dan cenderung lamban.
-        <br/><b>Kelompok:</b> Stegosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan sedikit persaingan.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 7-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 2-4 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan tidak memiliki perlindungan yang kuat dari predator.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
-        <br/><b>Kelompok:</b> Ankylosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 6-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 4-6 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang. Biasanya kurang agresif dan lebih mengandalkan perlindungan tubuh mereka dalam menghadapi ancaman predator.
-        <br/><b>Kelompok:</b> Ceratopsia.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah bersemak dan daerah terbuka dengan sedikit pohon besar.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 6-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 2-3 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 2-5 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan sisi atau belakang karena berat tubuh yang besar dan kecepatan yang rendah.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.
-        <br/><b>Kelompok:</b> Ankylosauria.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.
-        <br/><b>Makanan:</b> Biasanya memakan tumbuhan.
-        <br/><b>Panjang:</b> Sekitar 6-9 meter.
-        <br/><b>Tinggi:</b> Sekitar 1-2 meter pada bahu.
-        <br/><b>Bobot:</b> Sekitar 4-6 ton.
-        <br/><b>Kelemahan:</b> Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.
-    </item>
-        <item>
-        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
-        <br/><b>Kelompok:</b> Theropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
-        <br/><b>Makanan:</b> Biasanya memakan daging.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
-        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
-        <br/><b>Bobot:</b> Sekitar 5-7 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
-    </item><item>
-        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
-        <br/><b>Kelompok:</b> Theropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
-        <br/><b>Makanan:</b> Biasanya memakan daging.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
-        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
-        <br/><b>Bobot:</b> Sekitar 5-7 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
-    </item><item>
-        <b>Karakteristik:</b> Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.
-        <br/><b>Kelompok:</b> Theropoda.
-        <br/><b>Habitat:</b> Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.
-        <br/><b>Makanan:</b> Biasanya memakan daging.
-        <br/><b>Panjang:</b> Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.
-        <br/><b>Tinggi:</b> Sekitar 3-4 meter pada tinggi bahu.
-        <br/><b>Bobot:</b> Sekitar 5-7 ton.
-        <br/><b>Kelemahan:</b> Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.
-    </item>
+
+    <string-array name="family_images">
+        <item>b1</item>
+        <item>b2</item>
+        <item>b3</item>
+        <item>b4</item>
+        <item>b5</item>
+        <item>b6</item>
+        <item>b7</item>
+        <item>b8</item>
     </string-array>
+
+
+
+    <string-array name="characteristic">
+        <item>Dinosaurus karnivora dengan ciri-ciri seperti cakar dan gigi tajam. Biasanya memiliki tubuh besar dan kepala yang kuat.</item>
+        <item>Dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan kaki yang kuat. Biasanya memiliki ekor panjang untuk keseimbangan.</item>
+        <item>Dinosaurus herbivora dengan tubuh yang lebih kecil dan adaptasi untuk mengunyah tumbuhan. Biasanya memiliki gigi yang cocok untuk mengunyah dan pencernaan tumbuhan.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan. Biasanya memiliki ukuran tubuh yang besar dan cenderung lamban.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dilengkapi dengan lempeng tulang dan tonjolan, serta ekor yang bersenjatakan duri. Biasanya memiliki perlindungan tambahan dari serangan predator.</item>
+        <item>Dinosaurus herbivora dengan perlindungan tubuh yang kuat dan dilengkapi dengan alat pertahanan seperti duri dan tulang bertulang. Biasanya kurang agresif dan lebih mengandalkan perlindungan tubuh mereka dalam menghadapi ancaman predator.</item>
+        <item>Dinosaurus herbivora dengan ciri-ciri seperti paruh bebek dan kaki yang kuat. Biasanya hidup dalam kelompok besar dan menggunakan kaki mereka yang kuat untuk bergerak di daratan dan mencari makanan.</item>
+        <item>Dinosaurus pemakan ikan yang memiliki sayap membran dan hidup di udara. Biasanya hidup secara soliter atau dalam kelompok kecil dan menggunakan kemampuan terbang mereka untuk mencari mangsa di perairan.</item>
+    </string-array>
+    <string-array name="habitat">
+        <item>Biasanya ditemukan di daerah daratan terbuka dan padang rumput dengan iklim tropis hingga subtropis.</item>
+        <item>Biasanya ditemukan di dataran luas dan daerah banjir dengan vegetasi yang melimpah.</item>
+        <item>Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan banyak tumbuhan rendah.</item>
+        <item>Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan sedikit persaingan.</item>
+        <item>Biasanya ditemukan di daerah berhutan dan hutan bersemak dengan tingkat predasi yang rendah.</item>
+        <item>Biasanya ditemukan di daerah bersemak dan daerah terbuka dengan sedikit pohon besar.</item>
+        <item>Biasanya ditemukan di daerah banjir dan dataran luas dengan vegetasi yang melimpah.</item>
+        <item>Biasanya ditemukan di daerah perairan dan pesisir dengan akses yang mudah ke sumber makanan.</item>
+    </string-array>
+    <string-array name="food">
+        <item>Biasanya memakan daging.</item>
+        <item>Biasanya memakan tumbuhan.</item>
+        <item>Biasanya memakan tumbuhan.</item>
+        <item>Biasanya memakan tumbuhan.</item>
+        <item>Biasanya memakan tumbuhan.</item>
+        <item>Biasanya memakan tumbuhan.</item>
+        <item>Biasanya memakan tumbuhan.</item>
+        <item>Biasanya memakan ikan dan hewan kecil.</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>Varian tergantung spesiesnya, bisa mencapai 12 meter atau lebih.</item>
+        <item>Varian tergantung spesiesnya, bisa mencapai lebih dari 30 meter.</item>
+        <item>Sekitar 4-6 meter.</item>
+        <item>Sekitar 7-9 meter.</item>
+        <item>Sekitar 6-9 meter.</item>
+        <item>Sekitar 6-9 meter.</item>
+        <item>Sekitar 9-12 meter.</item>
+        <item>Varian tergantung spesiesnya, bisa mencapai 4-10 meter atau lebih dengan bentangan sayap yang luas.</item>
+    </string-array>
+    <string-array name="weakness">
+        <item>Rentan terhadap serangan dari dinosaurus yang lebih besar atau kelompok yang lebih kuat.</item>
+        <item>Lambat dalam gerakan sehingga rentan terhadap serangan predator jika sendirian.</item>
+        <item>Rentan terhadap serangan dari predator karena ukuran tubuhnya yang lebih kecil.</item>
+        <item>Lambat dalam gerakan dan tidak memiliki perlindungan yang kuat dari predator.</item>
+        <item>Lambat dalam gerakan dan memiliki sedikit kemampuan pertahanan aktif.</item>
+        <item>Rentan terhadap serangan sisi atau belakang karena berat tubuh yang besar dan kecepatan yang rendah.</item>
+        <item>Rentan terhadap serangan predator jika terpisah dari kelompoknya.</item>
+        <item>Rentan terhadap serangan dari predator di udara dan di permukaan air.</item>
+    </string-array>
+    <string-array name="height">
+        <item>Tyrannosaurus Rex dan Velociraptor:</item>
+        <item>Brachiosaurus dan Diplodocus</item>
+        <item>Parasaurolophus dan Iguanodon</item>
+        <item>Triceratops dan Styracosaurus</item>
+        <item>Stegosaurus dan Kentrosaurus</item>
+        <item>Ankylosaurus dan Euoplocephalus</item>
+        <item>Edmontosaurus dan Maiasaura</item>
+        <item>Pteranodon dan Quetzalcoatlus</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Sekitar 5-7 ton.</item>
+        <item>Varian tergantung spesiesnya, bisa mencapai lebih dari 50 ton.</item>
+        <item>Sekitar 1-3 ton.</item>
+        <item>Sekitar 2-4 ton.</item>
+        <item>Sekitar 4-6 ton.</item>
+        <item>Sekitar 2-5 ton.</item>
+        <item>Sekitar 2-4 ton.</item>
+        <item>Tergantung pada spesiesnya, bisa mencapai beberapa ratus kilogram.</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="dinosaur_names">
+        <item>Theropod: Tyrannosaurus Rex</item>
+        <item>Theropod: Velociraptor</item>
+        <item>Sauropod: Brachiosaurus</item>
+        <item>Sauropod: Diplodocus</item>
+        <item>Ornithopod: Parasaurolophus</item>
+        <item>Ornithopod: Iguanodon</item>
+        <item>Ceratopsian: Triceratops</item>
+        <item>Ceratopsian: Styracosaurus</item>
+        <item>Stegosaurian: Stegosaurus</item>
+        <item>Stegosaurian: Kentrosaurus</item>
+        <item>Ankylosaurian: Ankylosaurus</item>
+        <item>Ankylosaurian: Euoplocephalus</item>
+        <item>Hadrosaurid: Edmontosaurus</item>
+        <item>Hadrosaurid: Maiasaura</item>
+        <item>Pterosaur: Pteranodon</item>
+        <item>Pterosaur: Quetzalcoatlus</item>
+    </string-array>
+
+    <string-array name="dino_photo">
+        <item>a1</item>
+        <item>a2</item>
+        <item>a3</item>
+        <item>a4</item>
+        <item>a5</item>
+        <item>a6</item>
+        <item>a7</item>
+        <item>a8</item>
+        <item>a9</item>
+        <item>a10</item>
+        <item>a11</item>
+        <item>a12</item>
+        <item>a13</item>
+        <item>a14</item>
+        <item>a15</item>
+        <item>a16</item>
+    </string-array>
+
+
+    <string-array name="dinosaur_families">
+        <item>Theropod</item>
+        <item>Theropod</item>
+        <item>Sauropod</item>
+        <item>Sauropod</item>
+        <item>Ornithopod</item>
+        <item>Ornithopod</item>
+        <item>Ceratopsian</item>
+        <item>Ceratopsian</item>
+        <item>Stegosaurian</item>
+        <item>Stegosaurian</item>
+        <item>Ankylosaurian</item>
+        <item>Ankylosaurian</item>
+        <item>Hadrosaurid</item>
+        <item>Hadrosaurid</item>
+        <item>Pterosaur</item>
+        <item>Pterosaur</item>
+    </string-array>
+
+    <string-array name="dinosaur_description">
+        <item>Tyrannosaurus Rex adalah sejenis dinosaurus Theropod yang besar dan pemangsa yang hidup pada masa Kapur Akhir. Dikenal dengan gigi-gigi besar dan cakarnya yang kuat.</item>
+        <item>Velociraptor adalah dinosaurus Theropod berukuran kecil yang memiliki cakar mematikan dan sering berburu dalam kelompok. Dikenal dari fosil-fosilnya di Mongolia.</item>
+        <item>Brachiosaurus adalah sejenis dinosaurus Sauropod yang memiliki leher panjang dan tubuh besar. Dikenal sebagai salah satu dinosaurus darat terbesar yang pernah hidup.</item>
+        <item>Diplodocus adalah dinosaurus Sauropod dengan leher dan ekor yang panjang, hidup di Amerika Utara pada masa Kapur. Terkenal dengan tubuhnya yang panjang dan ringan.</item>
+        <item>Parasaurolophus adalah dinosaurus Ornithopod dengan crests panjang di atas kepalanya yang digunakan mungkin untuk komunikasi. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Iguanodon adalah dinosaurus Ornithopod yang memiliki tonjolan di atas hidungnya dan sering dianggap sebagai salah satu dinosaurus yang cerdas. Hidup di Eropa dan Amerika Utara pada masa Kapur.</item>
+        <item>Triceratops adalah dinosaurus Ceratopsian dengan tiga tanduk di atas kepalanya dan dikenal dengan perisainya yang besar. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Styracosaurus adalah dinosaurus Ceratopsian dengan tonjolan besar di hidungnya dan dikenal dengan susunan tanduknya yang unik. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Stegosaurus adalah dinosaurus Stegosaurian yang memiliki punggung yang dilengkapi dengan pelat-pelat dan duri-duri yang besar. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Kentrosaurus adalah dinosaurus Stegosaurian dengan tonjolan besar di atas tubuhnya dan cakar-cakar yang tajam. Hidup di Afrika pada masa Kapur.</item>
+        <item>Ankylosaurus adalah dinosaurus Ankylosaurian yang memiliki perisai yang keras dan berduri serta senjata baji ekor yang mematikan. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Euoplocephalus adalah dinosaurus Ankylosaurian yang memiliki lapisan perisai dan deretan duri yang melindungi tubuhnya. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Edmontosaurus adalah dinosaurus Hadrosaurid yang besar dan memiliki paruh mirip bebek. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Maiasaura adalah dinosaurus Hadrosaurid yang dikenal dengan perawatan induknya terhadap anak-anaknya. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Pteranodon adalah dinosaurus Pterosaur dengan sayap yang besar dan tubuh yang ringan, umumnya dianggap sebagai reptil terbang darat terbesar. Hidup di Amerika Utara pada masa Kapur.</item>
+        <item>Quetzalcoatlus adalah dinosaurus Pterosaur yang memiliki rentang sayap yang sangat besar dan dikenal sebagai salah satu reptil terbang terbesar yang pernah ada. Hidup di Amerika Utara pada masa Kapur.</item>
+    </string-array>
+
+    <string-array name="dinosaur_characteristics">
+        <item>Tyrannosaurus Rex memiliki gigi-gigi besar, cakar yang kuat, dan merupakan predator raksasa.</item>
+        <item>Velociraptor adalah dinosaurus kecil dengan cakar mematikan dan kemampuan berburu dalam kelompok.</item>
+        <item>Brachiosaurus memiliki leher panjang, tubuh besar, dan sering tinggal di habitat darat.</item>
+        <item>Diplodocus memiliki tubuh panjang dan ringan dengan leher dan ekor yang panjang.</item>
+        <item>Parasaurolophus memiliki crests panjang di atas kepalanya, mungkin digunakan untuk komunikasi.</item>
+        <item>Iguanodon memiliki tonjolan di atas hidungnya dan dikenal sebagai dinosaurus yang cerdas.</item>
+        <item>Triceratops memiliki tiga tanduk di atas kepalanya dan perisainya yang besar.</item>
+        <item>Styracosaurus memiliki tonjolan besar di hidungnya dan susunan tanduk yang unik.</item>
+        <item>Stegosaurus memiliki punggung dilengkapi dengan pelat-pelat dan duri-duri besar.</item>
+        <item>Kentrosaurus memiliki tonjolan besar di atas tubuhnya dan cakar-cakar yang tajam.</item>
+        <item>Ankylosaurus memiliki perisai keras dan berduri serta senjata baji ekor yang mematikan.</item>
+        <item>Euoplocephalus memiliki lapisan perisai dan deretan duri yang melindungi tubuhnya.</item>
+        <item>Edmontosaurus adalah dinosaurus besar dengan paruh mirip bebek.</item>
+        <item>Maiasaura dikenal dengan perawatan induknya terhadap anak-anaknya.</item>
+        <item>Pteranodon memiliki sayap besar dan tubuh ringan, sering terbang di udara.</item>
+        <item>Quetzalcoatlus memiliki rentang sayap yang sangat besar dan merupakan reptil terbang terbesar.</item>
+    </string-array>
+    <string-array name="dinosaur_groups">
+        <item>Theropod</item>
+        <item>Theropod</item>
+        <item>Sauropod</item>
+        <item>Sauropod</item>
+        <item>Ornithopod</item>
+        <item>Ornithopod</item>
+        <item>Ceratopsian</item>
+        <item>Ceratopsian</item>
+        <item>Stegosaurian</item>
+        <item>Stegosaurian</item>
+        <item>Ankylosaurian</item>
+        <item>Ankylosaurian</item>
+        <item>Hadrosaurid</item>
+        <item>Hadrosaurid</item>
+        <item>Pterosaur</item>
+        <item>Pterosaur</item>
+    </string-array>
+    <string-array name="dinosaur_habitats">
+        <item>Tyrannosaurus Rex umumnya hidup di daerah dataran rendah dengan vegetasi yang cukup untuk menyembunyikan persembunyiannya.</item>
+        <item>Velociraptor biasanya ditemukan di lingkungan semi-terbuka seperti hutan atau dataran yang terbuka dengan vegetasi yang cukup untuk memungkinkan mereka bersembunyi.</item>
+        <item>Brachiosaurus sering menghuni daratan tinggi atau dataran tinggi dengan akses ke sumber air yang cukup.</item>
+        <item>Diplodocus biasanya ditemukan di daerah yang luas dengan vegetasi yang melimpah seperti dataran banjir atau padang rumput.</item>
+        <item>Parasaurolophus sering dihuni daerah rawa-rawa atau dataran rendah dengan vegetasi yang lebat.</item>
+        <item>Iguanodon umumnya menghuni hutan-hutan dan dataran rendah dengan vegetasi yang melimpah.</item>
+        <item>Triceratops hidup di dataran rendah atau padang rumput dengan vegetasi yang cukup untuk menyediakan makanan.</item>
+        <item>Styracosaurus biasanya ditemukan di daerah yang mirip dengan habitat Triceratops, seperti padang rumput atau dataran rendah.</item>
+        <item>Stegosaurus sering ditemukan di hutan-hutan yang lebat atau daerah yang memiliki vegetasi yang melimpah.</item>
+        <item>Kentrosaurus umumnya hidup di hutan-hutan dan daerah semi-terbuka dengan vegetasi yang cukup untuk menyediakan makanan.</item>
+        <item>Ankylosaurus sering ditemukan di dataran rendah atau hutan-hutan dengan vegetasi yang lebat.</item>
+        <item>Euoplocephalus biasanya ditemukan di dataran rendah atau daerah rawa-rawa dengan vegetasi yang melimpah.</item>
+        <item>Edmontosaurus hidup di daerah dataran rendah dengan akses ke air dan vegetasi yang cukup untuk menyediakan makanan.</item>
+        <item>Maiasaura sering dihuni dataran banjir atau daerah rawa-rawa dengan vegetasi yang melimpah.</item>
+        <item>Pteranodon umumnya ditemukan di daerah pantai atau wilayah pesisir dengan akses ke air.</item>
+        <item>Quetzalcoatlus sering menghuni daerah yang luas seperti dataran tinggi atau dataran rendah dengan vegetasi yang cukup.</item>
+    </string-array>
+    <string-array name="dinosaur_food">
+        <item>Tyrannosaurus Rex adalah pemangsa utama yang memakan hewan-hewan herbivora seperti Triceratops dan Edmontosaurus.</item>
+        <item>Velociraptor umumnya memakan hewan kecil seperti mamalia kecil, reptil, dan burung.</item>
+        <item>Brachiosaurus adalah pemakan tumbuhan yang mengkonsumsi daun-daunan tinggi dari pohon-pohon.</item>
+        <item>Diplodocus adalah pemakan tumbuhan yang mengkonsumsi daun-daunan rendah dan pohon-pohon rendah.</item>
+        <item>Parasaurolophus adalah pemakan tumbuhan yang memakan daun-daunan dan vegetasi darat yang melimpah.</item>
+        <item>Iguanodon adalah pemakan tumbuhan yang umumnya mengkonsumsi daun, cabang, dan buah-buahan.</item>
+        <item>Triceratops adalah pemakan tumbuhan yang umumnya memakan dedaunan dan tanaman rendah di daratan.</item>
+        <item>Styracosaurus adalah pemakan tumbuhan yang sering memakan dedaunan, tanaman rendah, dan semak-semak.</item>
+        <item>Stegosaurus adalah pemakan tumbuhan yang biasanya memakan dedaunan, tumbuhan rendah, dan mungkin juga invertebrata.</item>
+        <item>Kentrosaurus adalah pemakan tumbuhan yang mengkonsumsi daun-daunan dan tanaman rendah seperti semak-semak dan paku-pakuan.</item>
+        <item>Ankylosaurus adalah pemakan tumbuhan yang biasanya memakan daun, cabang, dan buah-buahan.</item>
+        <item>Euoplocephalus adalah pemakan tumbuhan yang mengkonsumsi daun-daunan, tanaman rendah, dan mungkin juga invertebrata.</item>
+        <item>Edmontosaurus adalah pemakan tumbuhan yang biasanya memakan daun-daunan, tanaman rendah, dan mungkin juga biji-bijian dan buah-buahan.</item>
+        <item>Maiasaura adalah pemakan tumbuhan yang biasanya memakan dedaunan, tanaman rendah, dan mungkin juga biji-bijian dan buah-buahan.</item>
+        <item>Pteranodon adalah pemakan ikan yang memburu ikan-ikan kecil dan mungkin juga invertebrata laut lainnya.</item>
+        <item>Quetzalcoatlus adalah pemakan ikan yang memburu ikan-ikan besar di perairan dangkal dan mungkin juga mencari sumber makanan lainnya di darat.</item>
+    </string-array>
+    <string-array name="dinosaur_dimensions">
+        <item>Tyrannosaurus Rex memiliki panjang sekitar 12 meter, tinggi sekitar 4 meter pada pinggulnya, dan bobot sekitar 8 ton.</item>
+        <item>Velociraptor memiliki panjang sekitar 2 meter, tinggi sekitar 0.5 meter pada pinggulnya, dan bobot sekitar 15-20 kg.</item>
+        <item>Brachiosaurus memiliki panjang sekitar 25 meter, tinggi sekitar 9 meter pada bahunya, dan bobot sekitar 50-60 ton.</item>
+        <item>Diplodocus memiliki panjang sekitar 25 meter, tinggi sekitar 7 meter pada pinggulnya, dan bobot sekitar 10-15 ton.</item>
+        <item>Parasaurolophus memiliki panjang sekitar 9 meter, tinggi sekitar 4 meter pada pinggulnya, dan bobot sekitar 2-3 ton.</item>
+        <item>Iguanodon memiliki panjang sekitar 10 meter, tinggi sekitar 4 meter pada pinggulnya, dan bobot sekitar 3-4 ton.</item>
+        <item>Triceratops memiliki panjang sekitar 9 meter, tinggi sekitar 3 meter pada bahunya, dan bobot sekitar 6-12 ton.</item>
+        <item>Styracosaurus memiliki panjang sekitar 5.5 meter, tinggi sekitar 2.5 meter pada bahunya, dan bobot sekitar 3-4 ton.</item>
+        <item>Stegosaurus memiliki panjang sekitar 9 meter, tinggi sekitar 4 meter pada pinggulnya, dan bobot sekitar 2-3 ton.</item>
+        <item>Kentrosaurus memiliki panjang sekitar 5 meter, tinggi sekitar 2.5 meter pada bahunya, dan bobot sekitar 1 ton.</item>
+        <item>Ankylosaurus memiliki panjang sekitar 6 meter, tinggi sekitar 1.5 meter pada bahunya, dan bobot sekitar 4-6 ton.</item>
+        <item>Euoplocephalus memiliki panjang sekitar 6 meter, tinggi sekitar 2.5 meter pada bahunya, dan bobot sekitar 2-3 ton.</item>
+        <item>Edmontosaurus memiliki panjang sekitar 12 meter, tinggi sekitar 4.5 meter pada pinggulnya, dan bobot sekitar 4-5 ton.</item>
+        <item>Maiasaura memiliki panjang sekitar 9 meter, tinggi sekitar 3.5 meter pada pinggulnya, dan bobot sekitar 3-4 ton.</item>
+        <item>Pteranodon memiliki panjang sayap sekitar 7 meter, tinggi sekitar 1.5 meter pada bahunya, dan bobot sekitar 20-30 kg.</item>
+        <item>Quetzalcoatlus memiliki panjang sayap sekitar 10-11 meter, tinggi sekitar 3-4 meter pada bahunya, dan bobot sekitar 200-250 kg.</item>
+    </string-array>
+    <string-array name="dinosaur_weaknesses">
+        <item>Tyrannosaurus Rex rentan terhadap cedera pada rahangnya karena menyerang mangsanya dengan cakar yang besar.</item>
+        <item>Velociraptor memiliki tubuh yang ringan dan rapuh sehingga rentan terhadap cedera saat menyerang atau bertarung dengan mangsanya.</item>
+        <item>Brachiosaurus memiliki tubuh yang besar dan lambat sehingga rentan terhadap serangan predator jika terisolasi.</item>
+        <item>Diplodocus memiliki leher yang panjang dan rentan terhadap cedera jika diserang oleh predator.</item>
+        <item>Parasaurolophus memiliki kemampuan berlari yang terbatas sehingga rentan terhadap serangan predator.</item>
+        <item>Iguanodon mungkin rentan terhadap serangan predator karena memiliki tonjolan besar di atas hidungnya yang dapat menghambat penglihatan.</item>
+        <item>Triceratops memiliki kecepatan yang terbatas sehingga rentan terhadap serangan predator yang lebih cepat.</item>
+        <item>Styracosaurus memiliki perisai yang kuat tetapi masih memiliki bagian tubuh yang rentan terhadap serangan predator.</item>
+        <item>Stegosaurus memiliki otak kecil dan mungkin kurang responsif terhadap bahaya, serta memiliki rentang gerak yang terbatas.</item>
+        <item>Kentrosaurus memiliki cakar yang tumpul dan mungkin kurang efektif dalam pertahanan diri terhadap predator.</item>
+        <item>Ankylosaurus memiliki kecepatan yang terbatas dan mungkin sulit untuk menghindari serangan predator.</item>
+        <item>Euoplocephalus memiliki penglihatan yang mungkin terbatas karena perisainya yang besar.</item>
+        <item>Edmontosaurus memiliki ukuran tubuh yang besar dan mungkin kurang gesit dalam menghindari predator.</item>
+        <item>Maiasaura mungkin rentan terhadap serangan predator saat melindungi anak-anaknya karena fokusnya pada perawatan induk terhadap anak-anak.</item>
+        <item>Pteranodon rentan terhadap serangan predator ketika mendarat karena tubuhnya yang besar dan rentan terhadap cedera pada sayapnya.</item>
+        <item>Quetzalcoatlus memiliki tubuh yang besar dan mungkin rentan terhadap cedera pada sayapnya karena rentang sayap yang lebar.</item>
+    </string-array>
+
+
 
 
 

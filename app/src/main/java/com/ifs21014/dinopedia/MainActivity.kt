@@ -6,12 +6,12 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
-import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
     companion object{
-        val INTENT_PARCELABLE = "OBJECT_INTENT"
+        const val INTENT_PARCELABLE = "OBJECT_INTENT"
     }
 
     @SuppressLint("DiscouragedApi")
@@ -19,37 +19,45 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val destinationNames = resources.getStringArray(R.array.destination_names)
+        val destinationNames = resources.getStringArray(R.array.family_names)
         val destinationDescriptions = resources.getStringArray(R.array.destination_descriptions)
-        val destinationImages = resources.getStringArray(R.array.destination_images)
-        val destinationLocation = resources.getStringArray(R.array.destination_location)
+        val destinationImages = resources.getStringArray(R.array.family_images)
+        val destinationLocation = resources.getStringArray(R.array.characteristic)
+        val destinationFamilies = resources.getStringArray(R.array.families)
+        val habitat = resources.getStringArray(R.array.habitat)
+        val makanan = resources.getStringArray(R.array.food)
+        val ukuran = resources.getStringArray(R.array.length)
+        val panjang = resources.getStringArray(R.array.height)
+        val kelemahan = resources.getStringArray(R.array.weakness)
 
-        val destinationList = mutableListOf<Destination>()
-        supportActionBar?.setTitle("Dino Pedia")
+        val destinationList = mutableListOf<Family>()
+        supportActionBar?.title = "Dino Pedia"
 
         for (i in destinationNames.indices) {
             destinationList.add(
-                Destination(
+                Family(
                     resources.getIdentifier(destinationImages[i], "drawable", packageName),
                     destinationNames[i],
                     destinationDescriptions[i],
-                    destinationLocation[i]
+                    destinationLocation[i],
+                    destinationFamilies[i],
+                    habitat[i],
+                    makanan[i],
+                    ukuran[i],
+                    panjang[i],
+                    kelemahan[i]
+
+
                 )
             )
         }
 
         val recyclerView = findViewById<RecyclerView>(R.id.rv_destination)
-        recyclerView.layoutManager = GridLayoutManager(this, 2).apply {
-            spanSizeLookup = object : GridLayoutManager.SpanSizeLookup() {
-                override fun getSpanSize(position: Int): Int {
-                    return if (position % 3 == 0) 2 else 1
-                }
-            }
-        }
+        recyclerView.layoutManager = LinearLayoutManager(this)
         recyclerView.setHasFixedSize(true)
-        recyclerView.adapter = DestAdapter(this, destinationList) { destination ->
-            val intent = Intent(this, DetailActivity::class.java)
-            intent.putExtra(INTENT_PARCELABLE, destination)
+        recyclerView.adapter = FamAdapter(this, destinationList){
+            val intent = Intent (this, DetailActivity::class.java)
+            intent.putExtra(INTENT_PARCELABLE, it)
             startActivity(intent)
         }
     }

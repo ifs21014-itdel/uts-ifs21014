@@ -25,6 +25,10 @@
         <activity
             android:name=".DetailActivity"
             android:exported="false" />
+        <activity android:name=".DinoActivity"
+            android:exported = "false"/>
+        <activity android:name=".DinoDetail"
+            android:exported="false"/>
         <activity
             android:name=".SplashActivity"
             android:screenOrientation="portrait"
