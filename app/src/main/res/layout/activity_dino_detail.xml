@@ -254,11 +254,11 @@
             android:id="@+id/buttonBack"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kembali"
             android:layout_marginTop="16dp"
-            app:layout_constraintTop_toBottomOf="@id/dino_weak"
+            android:text="Semua DInosaurus"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"/>
+            app:layout_constraintTop_toBottomOf="@id/dino_weak" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

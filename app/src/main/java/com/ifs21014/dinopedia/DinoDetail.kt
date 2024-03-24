@@ -41,6 +41,13 @@ class DinoDetail : AppCompatActivity() {
         foodDino.text=dinosaur?.makanan
         sizeDino.text=dinosaur?.ukuran
         weakDino.text = dinosaur?.kelemahan
+
+        val btnall = findViewById<Button>(R.id.buttonBack)
+        btnall.setOnClickListener {
+            val intent = Intent(this@DinoDetail, DinoActivity::class.java)
+            startActivity(intent)
+            finish() // Menutup aktivitas saat ini agar kembali ke MainActivity
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
